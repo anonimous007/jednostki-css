@@ -1,0 +1,64 @@
+html, body {
+    padding: 20px;
+    font-size: 15px;
+}
+
+div{
+    background: #99ff99;
+    padding: 5px;
+    white-space: nowrap;
+    width: 0;
+}
+
+
+#percentage {
+    width: 400px;
+}
+
+#pixel {
+    width:400px
+}
+
+
+
+#em-parent {
+    font-size: 25px;
+}
+
+
+#em {
+    width: 20em;
+}
+
+#rem{
+    width: 20rem;
+}
+
+#vw{
+    width: 60vw;
+}
+
+#vh{
+    width: 60vh;
+}
+
+#inch{
+    width; 4in;
+}
+
+#cm{
+    width: 120pt;
+}
+
+#mm{
+    width: 200mm;
+}
+
+#pt {
+    width: 120pt
+}
+
+
+#ex {
+    width: 60ex;
+}
